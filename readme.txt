@@ -1,3 +1,5 @@
+
+
 Introduction
 Originally envisioned as a hasher for machine learning models, our team
 swiftly recognized the computational limitations and challenges presented by
@@ -14,6 +16,7 @@ Test Deploy
 
 -- https://testnet.starkscan.co/class/0x0011998db1f2d7a7754f192f791eecfba8373cef980d1d5fcbb611c9a6e4e845
 
+Sadly we dedicated much of the time to understand many different problem solving approaches that we werent familiar, so to finish the project wich Im quite interested into I may need arround 2 weeks to get a  working beta
 
 Features
 Telegram Integration: Seamlessly connect and operate your DeFi tools right from your Telegram interface, without sharing ur private key.
